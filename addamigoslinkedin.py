@@ -23,7 +23,7 @@ def faca_login_linkedin():
     time.sleep(10)
     
 def add_amigos():
-    print('Adicionando amigos')
+    print('Adic ionando amigos')
     urlfriends = urls.get('urlfriends')
     instance.driver.get(urlfriends)
     

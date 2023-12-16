@@ -1,9 +1,9 @@
 info_login_teste = {
-    'user': "ramonss.bque@outlook.com",
-    'senha': "teste1995"
+    'user': "ramonss.bque@gmail.com",
+    'senha': "Ramon@@1995"
 } 
 
 urls = {
     'urlbaselinkedin': 'https://www.linkedin.com/',
-    'urlJobs': 'https://www.linkedin.com/mynetwork/'
+    'urlfriends': 'https://www.linkedin.com/mynetwork/',
 }
