@@ -5,6 +5,5 @@ info_login_teste = {
 
 urls = {
     'urlbaselinkedin': 'https://www.linkedin.com/',
-    'urlJobs': 'https://www'https://www.linkedin.com/mynetwork/'.linkedin.com/jobs/s',
-    'urlfriends': 
+    'urlJobs': 'https://www.linkedin.com/mynetwork/'
 }
